@@ -1,7 +1,0 @@
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\bin\Debug\CSV_generator.exe.config
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\bin\Debug\CSV_generator.exe
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\bin\Debug\CSV_generator.pdb
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\obj\Debug\CSV_generator.csproj.AssemblyReference.cache
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\obj\Debug\CSV_generator.csproj.CoreCompileInputs.cache
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\obj\Debug\CSV_generator.exe
-C:\Users\ILAN.MLQ\Documents\Ecole\2eme_annee\M335\CSV_generator\CSV_generator\CSV_generator\obj\Debug\CSV_generator.pdb
